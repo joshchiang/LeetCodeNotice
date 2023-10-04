@@ -2,3 +2,11 @@
 _DS_Store
 *.zip
 /node_modules
+/target
+/log
+.classpath
+/bin
+/Tools
+*.zip
+/.settings
+/target
