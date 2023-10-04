@@ -1,1 +1,11 @@
 /target/
+.DS_Store
+_DS_Store
+*.zip
+/log
+.classpath
+/bin
+/Tools
+*.zip
+/.settings
+
